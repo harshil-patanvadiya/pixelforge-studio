@@ -6,9 +6,9 @@ A Laravel 12, Vue 3 and Inertia app where users generate AI images through the P
 
 | | |
 | --- | --- |
-| Live app | `[https://pixelforge-studio-demo.laravel.cloud](https://pixelforge-studio-demo.laravel.cloud/)` |
-| Admin login | `admin@yopmail.com` / `Password@123#` |
-| User login | `john@yopmail.com` / `Password@123#` |
+| Live app | [https://pixelforge-studio-demo.laravel.cloud](https://pixelforge-studio-demo.laravel.cloud/) |
+| Admin login | `admin@yopmail.com` / `1234567890` |
+| User login | `john@yopmail.com` / `1234567890` |
 
 ## What is built
 
@@ -71,12 +71,12 @@ For webhooks to reach your machine, expose the app with a tunnel (Expose, ngrok 
 
 ## Seeded accounts
 
-All use the password `Password@123#`.
+All use the password `1234567890`.
 
 | Email | Role |
 | --- | --- |
 | admin@yopmail.com | admin |
-| john@yopmail.com, alice@yopmail.com, bob@yopmail.com, emma@yopmail.com, david@yopmail.com | user |
+| john@yopmail.com | user |
 
 ## Known limitations
 
