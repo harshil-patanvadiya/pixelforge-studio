@@ -6,8 +6,7 @@ A Laravel 12, Vue 3 and Inertia app where users generate AI images through the P
 
 | | |
 | --- | --- |
-| Live app | `<add deployed URL>` |
-| Pixelforge account email | `<add email>` |
+| Live app | `[https://pixelforge-studio-demo.laravel.cloud](https://pixelforge-studio-demo.laravel.cloud/)` |
 | Admin login | `admin@yopmail.com` / `Password@123#` |
 | User login | `john@yopmail.com` / `Password@123#` |
 
